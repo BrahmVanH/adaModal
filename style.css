@@ -1,0 +1,28 @@
+.modal-body {
+    background-color: lightblue;
+}
+
+.modal-footer {
+    background-color: lightcoral;
+}
+
+.dark-mode {
+    background-color: grey;
+}
+
+.dark-mode {
+    border: solid white;
+
+}
+
+.dark-mode .modal {
+    background-color: black;
+}
+
+.dark-theme-div {
+    background-color: black;
+}
+
+.dark-theme-button {
+    background-color: grey;
+}
